@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HKAssignment01", "HKAssignment01\HKAssignment01.csproj", "{149E6819-BA87-4213-A2A1-CD13AFAD2EBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HKAssignment01.Tests", "HKAssignment01.Tests\HKAssignment01.Tests.csproj", "{E3833E56-C457-4F24-A0DE-085A1D1B84AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{149E6819-BA87-4213-A2A1-CD13AFAD2EBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{149E6819-BA87-4213-A2A1-CD13AFAD2EBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{149E6819-BA87-4213-A2A1-CD13AFAD2EBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{149E6819-BA87-4213-A2A1-CD13AFAD2EBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3833E56-C457-4F24-A0DE-085A1D1B84AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3833E56-C457-4F24-A0DE-085A1D1B84AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3833E56-C457-4F24-A0DE-085A1D1B84AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3833E56-C457-4F24-A0DE-085A1D1B84AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4B1D546-552D-424E-9B72-9F8438D6E434}
+	EndGlobalSection
+EndGlobal
