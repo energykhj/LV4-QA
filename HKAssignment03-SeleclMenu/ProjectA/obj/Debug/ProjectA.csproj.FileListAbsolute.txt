@@ -1,0 +1,10 @@
+D:\CPA Level 4\PROG2070 QA\Assingments\HKAssignment03\ProjectA\obj\Debug\ProjectA.csprojAssemblyReference.cache
+D:\CPA Level 4\PROG2070 QA\Assingments\HKAssignment03\ProjectA\bin\Debug\ProjectA.exe
+D:\CPA Level 4\PROG2070 QA\Assingments\HKAssignment03\ProjectA\bin\Debug\ProjectA.pdb
+D:\CPA Level 4\PROG2070 QA\Assingments\HKAssignment03\ProjectA\obj\Debug\ProjectA.exe
+D:\CPA Level 4\PROG2070 QA\Assingments\HKAssignment03\ProjectA\obj\Debug\ProjectA.pdb
+D:\CPA Level 4\PROG2070 QA\Assingments\HKAssignment03 - Copy\ProjectA\bin\Debug\ProjectA.exe
+D:\CPA Level 4\PROG2070 QA\Assingments\HKAssignment03 - Copy\ProjectA\bin\Debug\ProjectA.pdb
+D:\CPA Level 4\PROG2070 QA\Assingments\HKAssignment03 - Copy\ProjectA\obj\Debug\ProjectA.csprojAssemblyReference.cache
+D:\CPA Level 4\PROG2070 QA\Assingments\HKAssignment03 - Copy\ProjectA\obj\Debug\ProjectA.exe
+D:\CPA Level 4\PROG2070 QA\Assingments\HKAssignment03 - Copy\ProjectA\obj\Debug\ProjectA.pdb

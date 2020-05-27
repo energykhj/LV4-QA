@@ -1,0 +1,6 @@
+D:\CPA Level 4\PROG2070 QA\Assingments\HKAssignment03\HKAssignment03\bin\Debug\HKAssignment03.exe.config
+D:\CPA Level 4\PROG2070 QA\Assingments\HKAssignment03\HKAssignment03\bin\Debug\HKAssignment03.exe
+D:\CPA Level 4\PROG2070 QA\Assingments\HKAssignment03\HKAssignment03\bin\Debug\HKAssignment03.pdb
+D:\CPA Level 4\PROG2070 QA\Assingments\HKAssignment03\HKAssignment03\obj\Debug\HKAssignment03.csprojAssemblyReference.cache
+D:\CPA Level 4\PROG2070 QA\Assingments\HKAssignment03\HKAssignment03\obj\Debug\HKAssignment03.exe
+D:\CPA Level 4\PROG2070 QA\Assingments\HKAssignment03\HKAssignment03\obj\Debug\HKAssignment03.pdb
