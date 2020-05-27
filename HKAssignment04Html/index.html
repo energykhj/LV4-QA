@@ -1,0 +1,82 @@
+<!--
+PROG2070-QA Assignment4
+Created by: Heejin Ko(Sec2)
+Revision History:
+         Heejin Ko, 4/9/2020 : Created
+-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,
+            initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>PROG2070-Assignment4 part2</title>
+
+  <!--jQuery-->
+  <script src="https://cdn.bootcss.com/jquery/2.1.4/jquery.min.js">
+  </script>
+  <script src="js/lib/jquery.validate.js"></script>
+
+  <link rel="stylesheet"
+        href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+
+  <!--our stuff-->
+  <script src="js/facade.js"></script>
+  <script src="js/global.js"></script>
+  <script src="js/util.js"></script>
+  <link rel="stylesheet" href="css/mystyle.css">
+</head>
+<body>
+<div class="text-center">
+  <h2><br>PROG2070 Assignment4</h2>
+  <h6 class="col-11" style="text-align: right">
+    Heuijin Ko(sec2)
+  </h6>
+</div>
+
+<div class="container">
+  <div id="InfoPage" data-role="page">
+    <form id="InfoForm" name="InfoForm">
+      <div class="form-group">
+        <label for="txtSellerName">Seller Name</label>
+        <input type="text" class="form-control"
+               name="txtSellerName" id="txtSellerName" /><br />
+        <label for="txtAddress">Address</label>
+        <input type="text" class="form-control"
+               name="txtAddress" id="txtAddress" /><br />
+        <label for="txtCity">City</label>
+        <input type="text" class="form-control"
+               name="txtCity" id="txtCity" /><br />
+        <label for="txtPhone">Phone Number</label>
+        <input type="text" class="form-control"
+               name="txtPhone" id="txtPhone" /><br />
+        <label for="txtEmail">Email</label>
+        <input type="text" class="form-control"
+               name="txtEmail" id="txtEmail" /><br />
+        <label for="txtMake">Vehicle Make</label>
+        <input type="text" class="form-control"
+               name="txtMake" id="txtMake" /><br />
+        <label for="txtModel">Model</label>
+        <input type="text" class="form-control"
+               name="txtModel" id="txtModel" /><br />
+        <label for="txtYear">Year</label>
+        <input type="text" class="form-control"
+               name="txtYear" id="txtYear" /><br />
+      </div>
+      <div class="mt-6 float-right" role="group">
+        <input type="button" class="btn btn-primary"
+               value="Enter Info" name="btnSave" id="btnSave" />
+        <input type="button" class="btn btn-primary"
+               value="Search" name="btnSearch" id="btnSearch" />
+      </div>
+    </form>
+  </div>
+  <div id="SearchPage" data-role="page">
+    <div id="SearchList"></div>
+    <input type="button" class="btn btn-primary float-right"
+           value="Home" name="btnHome" id="btnHome" />
+  </div>
+</div>
+</body>
+</html>

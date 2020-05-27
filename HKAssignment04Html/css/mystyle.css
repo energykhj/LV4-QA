@@ -1,0 +1,9 @@
+.errorTxt{
+    color: red;
+    min-height: 20px;
+}
+
+label.error{
+    color: #F00;
+    font-weight: bold;
+}
